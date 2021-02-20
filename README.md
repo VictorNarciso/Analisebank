@@ -20,6 +20,8 @@
 # Ferramentas e Tecnologias utilizadas neste projeto
 
 - Jupyter Notebook
+podem ser utilizados de duas formas: online pelo site https://jupyter.org/try ou instalação no computador dentro da ferramenta Anaconda Navigator:
+
 - Linguagem Python com uso das bibliotecas abaixo:
 - Pandas para tratamento com Data Frames
 - Seabron para uso de graficos e análise exploratória
