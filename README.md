@@ -6,7 +6,7 @@
 
 # Objetivo deste projeto
 
-- Prever quais clientes que podem deixar a instituição e enviar a garência para determinar quais medidas devem ser feitas para efetuar essas baixas.
+- Prever quais clientes que podem deixar a instituição e enviar a gerência para determinar quais medidas devem ser feitas para efetuar essas baixas.
 
 # Quais as regras de negócio aplicadas neste projeto?
 
